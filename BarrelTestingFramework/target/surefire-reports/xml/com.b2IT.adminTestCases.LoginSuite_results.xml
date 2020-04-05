@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AdminTest"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.528">
+  <properties />
+  
+  
+            <testcase name="Task" time="5.528" classname="com.b2IT.adminTestCases.LoginSuite" />
+      
+</testsuite>
